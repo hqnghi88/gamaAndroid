@@ -1,0 +1,9 @@
+#
+#Fri Dec 23 17:56:52 ICT 2016
+operators=-~cube~and~<\=~>\=~/~+~point~*~hsb~square~font~as~.~\!\=~>~<~\=
+plugins=msi.gama.core~ummisco.gaml.extensions.maths
+statements=aspect~if~let~draw~init~set~reflex~ask~diffuse~output~display~display_population
+skills=reflex~grid
+constants=white~black~zoom~bold~msec
+types=string~list~int~unknown~float~geometry~point~agent~rgb~bool~date~container
+actions=debug~error~tell~write~die~_init_~_step_~halt~pause

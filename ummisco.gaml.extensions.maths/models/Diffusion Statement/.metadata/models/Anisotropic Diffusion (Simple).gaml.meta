@@ -1,0 +1,8 @@
+#
+#Fri Dec 23 17:56:52 ICT 2016
+operators=-~envelope~*~square~as~/~hsb
+plugins=msi.gama.core~ummisco.gaml.extensions.maths~ummisco.gama.opengl
+statements=reflex~diffuse~init~set~ask~output~display~display_grid
+skills=reflex~grid
+types=string~list~int~unknown~float~geometry~point~agent~rgb~bool~date~matrix~container
+actions=debug~error~tell~write~die~_init_~_step_~halt~pause
